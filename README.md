@@ -65,6 +65,9 @@ Meet Emma, a fashion-savvy GenZ user:
 6. **Shopping Experience:** Buys eco-friendly dresses directly from posts using personalized recommendations.
 7. **Sustainability Focus:** Aligns purchases with values through transparent supply chains and sustainability badges.
 
+**Demo**
+[https://drive.google.com/file/d/1CKTC_B---1Y16UUTJA4IJl8FyDq9z0J1/view?usp=share_link]
+
 🚀**Getting Started**
 
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
