@@ -1,4 +1,4 @@
-### MYNSTAGRAM [https://camo.githubusercontent.com/63e15a1662123f124f5372ba76bf1f091a3ba82dcd4f355a6651148d480447a4/68747470733a2f2f666f6e74732e677374617469632e636f6d2f732f652f6e6f746f656d6f6a692f6c61746573742f31666161392f3531322e77656270]
+### MYNSTAGRAM 
 
 **Mynstagram** is a dynamic and interactive fashion web app designed to engage GenZ users with unique, trendy, and sustainable fashion. Our platform bridges the gap between fashion and social interaction, providing a space where users can discover, share, and shop the latest trends while participating in fashion challenges.
 
@@ -26,7 +26,7 @@ Welcome to **Mynstagram** - where style meets social! Engage with the latest fas
 - **Social Media Integration Gap**: Fashion apps often lack seamless social media integration, making it hard for users to share outfits and receive feedback within the app reducing user engagement and satisfaction.
 - **Sustainability:** The fast fashion industry faces increasing scrutiny for its environmental impact, with GenZ particularly sensitive to eco-friendly practices.
 
-**Solution Overview**
+📋**Solution Overview**
 
 **Mynstagram** addresses these challenges by offering:
 - Shoppable posts featuring influencer and user-generated content.
@@ -53,7 +53,7 @@ Welcome to **Mynstagram** - where style meets social! Engage with the latest fas
 - **Increased Conversion:** Seamless shopping integration boosts purchase rates.
 - **Brand Loyalty:** Builds a community around fashion and sustainability.
 
-**User Journey**
+📱**User Journey**
 
 Meet Emma, a fashion-savvy GenZ user:
 1. **Discovering the App:** Downloads Mynstagram after seeing a promo post on Instagram.
