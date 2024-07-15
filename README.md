@@ -1,9 +1,8 @@
-
-                                                          🛍️🛍️# Mynstagram
+🛍️🛍️ ##Mynstagram
 
 **Mynstagram** is a dynamic and interactive fashion web app designed to engage GenZ users with unique, trendy, and sustainable fashion. Our platform bridges the gap between fashion and social interaction, providing a space where users can discover, share, and shop the latest trends while participating in fashion challenges.
 
-📋## Table of Contents
+📋 ## Table of Contents
 
 1. [Introduction](#introduction)
 2. [Problem Statement](#problem-statement)
