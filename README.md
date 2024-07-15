@@ -1,4 +1,5 @@
 ### MYNSTAGRAM 
+![248884004-af212da4-8588-4d7c-8400-16e56f2746a0](https://github.com/user-attachments/assets/8344865f-bec9-4b02-bad7-1c64da93e22e)
 
 **Mynstagram** is a dynamic and interactive fashion web app designed to engage GenZ users with unique, trendy, and sustainable fashion. Our platform bridges the gap between fashion and social interaction, providing a space where users can discover, share, and shop the latest trends while participating in fashion challenges.
 
