@@ -24,7 +24,7 @@ Welcome to **Mynstagram** - where style meets social! Engage with the latest fas
 ## Problem Statement
 
 - **Consumer Demand:** GenZ desires unique, trendy, and sustainable fashion that allows them to express their individuality.
-- **Engagement Gap:** Existing platforms often lack the interactive and immersive experiences that GenZ craves, leading to lower engagement and repeat visits.
+- **Social Media Integration Gap**: Fashion apps often lack seamless social media integration, making it hard for users to share outfits and receive feedback within the app reducing user engagement and satisfaction.
 - **Sustainability:** The fast fashion industry faces increasing scrutiny for its environmental impact, with GenZ particularly sensitive to eco-friendly practices.
 
 ## Solution Overview
@@ -58,10 +58,12 @@ Welcome to **Mynstagram** - where style meets social! Engage with the latest fas
 
 Meet Emma, a fashion-savvy GenZ user:
 1. **Discovering the App:** Downloads Mynstagram after seeing a promo post on Instagram.
-2. **Engaging with Content:** Explores shoppable posts, interactive stories, and user-generated content.
-3. **Participating in Challenges:** Joins a fashion challenge, shares her outfit, and gets community feedback.
-4. **Shopping Experience:** Buys an eco-friendly dress directly from a post with personalized recommendations.
-5. **Sustainability Focus:** Aligns her purchases with her values through transparency and sustainability badges.
+2. **AI-Powered Recommendations:** Inputs style preferences and gets personalized outfit suggestions with accessories.
+3. **Engaging with Content:** Explores shoppable posts, interactive stories, and user-generated content.
+4. **Social Media Integration:** Tries on recommended outfits, shares photos, and gets instant community feedback within the app.
+5. **Participating in Challenges:** Joins fashion challenges, shares outfits, and receives community feedback.
+6. **Shopping Experience:** Buys eco-friendly dresses directly from posts using personalized recommendations.
+7. **Sustainability Focus:** Aligns purchases with values through transparent supply chains and sustainability badges.
 
 ## Getting Started
 
